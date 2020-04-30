@@ -11,7 +11,7 @@
 </template>
 <script>
 // import axios from 'axios'
-import service from "/home/wohlig/Documents/htdocs/graphql/node-react-graphql/graphql-ui/src/service/apiservice.js";
+import service from "/home/kiran/Desktop/wohlig/My Practises/node-GraphQl/graphql-ui/src/service/apiservice.js";
 
 export default {
   name: 'app',
